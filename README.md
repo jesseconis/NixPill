@@ -3,3 +3,8 @@
 
 `python3 -c "import urllib.request as u, os; f='install.sh'; u.urlretrieve('https://nixos.org/nix/install', f); print(open(f).read()); input('<Enter> continue?'); os.system(f'bash {f}')"`
 
+## Examples
+
+[ 🐧- General purpose](sys/)
+[ 🦀 - Recursive file hasher cli](ferris/)
+[ 🐍 - Fastapi rest & ws web app](py/)

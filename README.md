@@ -6,5 +6,7 @@
 ## Examples
 
 [ 🐧- General purpose](sys/)
+
 [ 🦀 - Recursive file hasher cli](ferris/)
+
 [ 🐍 - Fastapi rest & ws web app](py/)

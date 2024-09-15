@@ -1,0 +1,4 @@
+Sequential: 117.677103263s
+Rayon: 6.82544726s
+ThreadPool: 7.840641322s
+Async: 9.066691152s
